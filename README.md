@@ -11,6 +11,7 @@
 
 [<img align="left" alt="victormihaita | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/vmihai12/)
 [<img align="left" alt="victormihaita | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/victormihaita/)
+[<img align="left" alt="victormihaita | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/vmihai12/)
 
 <br />
 
