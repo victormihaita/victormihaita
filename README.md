@@ -4,8 +4,7 @@
 - 🔭 I’m currently working as an iOS Dev @ [Artland](https://www.artland.com)!
 - 🌱 I’m currently learning everything related to the iOS ecosystem 😁
 - 👯 I’m looking to collaborate with other passionate developers
-- 🥅 2021 Goals: Learn [SwiftUI](https://developer.apple.com/xcode/swiftui/) and [Combine](https://developer.apple.com/documentation/combine)
-- ⚡ Fun fact: I love to play on PS4 and hiking
+- 🥅 2022 Goals: Get into the UI/Unit Testing
 
 ### Connect with me:
 
