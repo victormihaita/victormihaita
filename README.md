@@ -31,4 +31,4 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=victormihaita&show_icons=true&hide_border=true" />
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victormihaita)](https://github.com/victormihaita/github-readme-stats)
