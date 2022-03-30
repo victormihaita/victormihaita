@@ -2,9 +2,8 @@
 
 ## I'm an enthusiastic Software Developer!
 - 🔭 I’m currently working as an iOS Dev @ [Artland](https://www.artland.com)!
-- 🌱 I’m currently learning everything related to the iOS ecosystem 😁
+- 🌱 I’m currently learning new and more effective development patterns for iOS 😁
 - 👯 I’m looking to collaborate with other passionate developers
-- 🥅 2022 Goals: Get into the UI/Unit Testing
 
 ### Connect with me:
 
