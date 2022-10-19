@@ -1,7 +1,7 @@
 ### Hi there, I'm Victor 👋
 
 ## I'm an enthusiastic Software Developer!
-- 🔭 I’m currently working as an iOS Dev @ [Artland](https://www.artland.com)!
+- 🔭 I’m currently working as an iOS Dev @ [Artland](https://www.artland.com)! I also get involved in the Backend part of the project working with Golang.
 - 🌱 I’m currently learning new and more effective development patterns for iOS 😁
 - 👯 I’m looking to collaborate with other passionate developers
 
