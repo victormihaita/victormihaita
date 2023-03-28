@@ -21,7 +21,9 @@
 
 [<img align="left" alt="Sketch" width="26px" src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/sketch/sketch.png" />](https://www.sketch.com)
 
-[<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/go/go.png" />](https://go.dev))
+[<img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/a5995564b5ff71c41da080abc49f1ba4132127c1/topics/go/go.png" />](https://go.dev)
+
+[<img align="left" alt="VSCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />](https://vscode.dev)
 
 <br />
 <br />
